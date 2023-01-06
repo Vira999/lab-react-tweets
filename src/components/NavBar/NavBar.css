@@ -1,0 +1,6 @@
+
+.nav-container{
+    background-color: hsl(0, 0%, 90%);
+    display: flex;
+    justify-content: space-between;
+}
